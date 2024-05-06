@@ -1,0 +1,1 @@
+curl -X POST -d '{ "owner":"Pepe", "serviceTime":40 }'  --header "Content-Type:application/json" http://localhost:8080/queue 

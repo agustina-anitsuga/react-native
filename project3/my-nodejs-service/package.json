@@ -1,0 +1,15 @@
+{
+  "name": "my-nodejs-service",
+  "version": "1.0.0",
+  "description": "First Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-command",
+    "start": "node server.js"
+  },
+  "author": "Agustina",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
